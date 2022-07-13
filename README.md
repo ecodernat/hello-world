@@ -1,2 +1,2 @@
 # hello-world
-I'm beginner
+Let's enjoy programming
